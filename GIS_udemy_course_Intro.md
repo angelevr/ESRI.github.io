@@ -78,3 +78,13 @@ JavaScript - Programming Language
 - Makes things happen
 - Respond to user input, calculations, animations
 - NOT Java
+
+QUIZ:
+1. In web development client refers to: a browser
+2. In client-server architecture, which do you have more of, clients or servers? Clients
+3. Which technology is used for communicating between client and server? AJAX
+4. Which technology allows you to store spatial data in a text-based format? GeoJSON
+5. In client-server architecture, user input occurs on the client.
+
+Click here for all of the powerpoint presentation: [GeospatialWeb101.pptx](https://github.com/angelevr/GIS.github.io/files/8521054/GeospatialWeb101.pptx)
+
